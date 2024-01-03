@@ -1075,7 +1075,7 @@ table.fancy th {
   table.fancy th, table.properties th {
     background: #333;
   }
-  table.dataTable.compact.fancy tbody th,
+  table.dataTable.compact.fancy thead th,
   table.dataTable.compact.fancy tbody td {
     background: #333;
   }
@@ -1096,7 +1096,7 @@ table.fancy tr.even td {
   background-color: #eee;
 }
 
-table.dataTable.compact.fancy tbody th,
+table.dataTable.compact.fancy thead th,
 table.dataTable.compact.fancy tbody td {
   padding: 6px 10px;
   line-height: normal;
